@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I’m IGS Gamer
 
-<!--
-**MachFury/Machfury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A mind full of dreams. A heart that beats for code.  
+I build, break, and rebuild — chasing perfection through Python, Java, JavaScript, and Oracle SQL.  
 
-Here are some ideas to get you started:
+💡 **Interests:** AI, Production, Gaming, Game Development  
+🚀 **Goals:** Create, inspire, and leave a mark on the digital world  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills
+- **Languages:** Python | Java | JavaScript | SQL  
+- **Tools & Platforms:** Git | GitHub | Oracle SQL | VS Code  
+- **Areas of Passion:** AI, Game Development, Production, Gaming  
+
+---
+
+### 📫 Connect with Me
+- Discord: `YourDiscord#1234`  
+- LinkedIn: [Manmohan Rout](https://www.linkedin.com/in/manmohanrout)  
+- Portfolio: [SOON](SOON)  
+
+---
+
+### 🔥 Fun Fact
+> I’m not just here to code. I’m here to *create worlds.*
+
+
+![Machfury's GitHub stats](https://github-readme-stats.vercel.app/api?username=Machfury&show_icons=true&theme=radical)
+
