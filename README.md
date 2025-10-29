@@ -16,7 +16,7 @@ I build, break, and rebuild — chasing perfection through Python, Java, JavaScr
 ---
 
 ### 📫 Connect with Me
-- Discord: `YourDiscord#1234`  
+- Discord: `machfury`  
 - LinkedIn: [Manmohan Rout](https://www.linkedin.com/in/manmohanrout)  
 - Portfolio: [SOON](SOON)  
 
