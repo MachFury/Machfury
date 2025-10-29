@@ -10,13 +10,12 @@ I build, break, and rebuild — chasing perfection through Python, Java, JavaScr
 
 ### 🛠 Skills
 - **Languages:** Python | Java | JavaScript | SQL  
-- **Tools & Platforms:** Git | GitHub | Oracle SQL | VS Code  
 - **Areas of Passion:** AI, Game Development, Production, Gaming  
 
 ---
 
 ### 📫 Connect with Me
-- Discord: `machfury`  
+- Discord: `machfury` 
 - LinkedIn: [Manmohan Rout](https://www.linkedin.com/in/manmohanrout)  
 - Portfolio: [SOON](SOON)  
 
@@ -26,5 +25,5 @@ I build, break, and rebuild — chasing perfection through Python, Java, JavaScr
 > I’m not just here to code. I’m here to *create worlds.*
 
 
-![Machfury's GitHub stats](https://github-readme-stats.vercel.app/api?username=Machfury&show_icons=true&theme=radical)
+![Machfury's GitHub stats](https://gstats.monishkrishna.com/api?username=Machfury&show_icons=true&theme=radical)
 
