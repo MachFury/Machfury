@@ -1,4 +1,4 @@
-# 👋 Hey, I’m IGS Gamer
+# 👋 Hey, I’m Machfury
 
 A mind full of dreams. A heart that beats for code.  
 I build, break, and rebuild — chasing perfection through Python, Java, JavaScript, and Oracle SQL.  
